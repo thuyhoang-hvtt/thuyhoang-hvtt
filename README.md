@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2 align="center">Contact Me 👻</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-TrongThuy-purple?style=for-the-badge&logo=artifacthub&logoColor=white&link=https://instagram.com/thuyhoang-hvtt/" />
+[![WWW](https://img.shields.io/badge/-TrongThuy-purple?style=for-the-badge&logo=artifacthub&logoColor=white)](https://instagram.com/thuyhoang-hvtt/)
 <img src="https://img.shields.io/badge/-TrongThuy-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thuyhoang.hvtt@gmail.com" />
 <img src="https://img.shields.io/badge/-TrongThuy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thuyhoang-hvtt/" />
 <img src="https://img.shields.io/badge/-TrongThuy-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/thuyhoang_hvtt" />
