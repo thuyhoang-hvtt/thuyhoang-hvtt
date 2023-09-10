@@ -1,10 +1,7 @@
-[![Actions Status](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/workflows/wakatime-stats/badge.svg)](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/actions)
+<!-- [![Actions Status](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/workflows/wakatime-stats/badge.svg)](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/actions)
 [![Actions Status](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/workflows/update-gh-activity/badge.svg)](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=thuyhoang-hvtt.thuyhoang-hvtt)
+![](https://visitor-badge.glitch.me/badge?page_id=thuyhoang-hvtt.thuyhoang-hvtt) -->
 
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
 
 <p align="center">
   <img src="https://socialify.git.ci/thuyhoang-hvtt/thuyhoang-hvtt/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="thuyhoang-hvtt" width="700" height="300" />
@@ -25,7 +22,13 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=thuyhoang-hvtt&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thuyhoang-hvtt&theme=github-dark-dimmed&custom_title=thuyhoang-hvtt%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/thuyhoang-hvtt/thuyhoang-hvtt/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuyhoang-hvtt/thuyhoang-hvtt/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/thuyhoang-hvtt/thuyhoang-hvtt/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 ```yaml
 name: Thuy Hoang (Lachy)
@@ -41,11 +44,7 @@ hobbies: ["Reading"]
 ```
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=vk96ugxz19h19oampcdefktjn&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1bed0c">
 </p>
 
 
@@ -59,7 +58,7 @@ hobbies: ["Reading"]
 
 Buy me a coffee?
 
-*ERC-20 / EVM: **0xebcc98573c3cd9b5b61900d1304da938b5036a0d***
+*ERC-20 / EVM: **0x9cD6311cF8900024De50f72164F2EDB9B1a27416***
 
 
 <p align="center">
