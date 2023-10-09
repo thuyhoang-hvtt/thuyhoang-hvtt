@@ -51,8 +51,8 @@ hobbies: ["Reading"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/pull/1) in [thuyhoang-hvtt/thuyhoang-hvtt](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt)
-2. 🗣 Commented on [#1367](https://github.com/graphprotocol/graph-tooling/issues/1367#issuecomment-1627639423) in [graphprotocol/graph-tooling](https://github.com/graphprotocol/graph-tooling)
+1. 🗣 Commented on [#1367](https://github.com/graphprotocol/graph-tooling/issues/1367#issuecomment-1752095089) in [graphprotocol/graph-tooling](https://github.com/graphprotocol/graph-tooling)
+2. ❌ Closed PR [#1](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt/pull/1) in [thuyhoang-hvtt/thuyhoang-hvtt](https://github.com/thuyhoang-hvtt/thuyhoang-hvtt)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
